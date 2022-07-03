@@ -1,6 +1,8 @@
 numpy
-pandas
-sklearn
 Flask
 gunicorn
+sklearn
+pandas
+PyYAML
+evidently
 -e .
